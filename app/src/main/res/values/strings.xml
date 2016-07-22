@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToolBar</string>
+    <string name="my_tb_title">This is my toolbar</string>
+    <string name="my_tb_subtitle">My Subtitle</string>
+    <string name="menu_1">Option 1</string>
+    <string name="menu_2">Option 2</string>
+    <string name="searchable">Searchable</string>
+    <string name="menu_search">Search</string>
+</resources>
